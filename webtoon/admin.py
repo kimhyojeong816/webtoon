@@ -3,3 +3,6 @@ from .models import*
 
 # Register your models here.
 admin.site.register(WebToon)
+admin.site.register(comment)
+
+
